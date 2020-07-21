@@ -1,4 +1,6 @@
 Esta es la historia de Mauricio Cuello
 
 Soy un ingeniero en proces de 21 años y que esta 
-aprendiendo git
+aprendiendo git y github
+
+Tambien estoy aprendiendo bash scripting
