@@ -1,9 +1,11 @@
 Esta es la historia de Mauricio Cuello
 
-Soy un ingeniero en proces de 21 años y que esta 
+Soy un ingeniero en proceso de 21 años y que esta 
 aprendiendo git y github
 
 Tambien estoy aprendiendo bash scripting
+
+Hoy hablaremos de su vida 
 
 En el semestre anterior fue nombrado capitan del equipo
 de voleibol de la universidad
